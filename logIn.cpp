@@ -164,5 +164,6 @@ int main()
 
     } while (choice != '4');
 
+    print("Thanks for Playing!")
     return 0;
 }
